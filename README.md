@@ -2,6 +2,8 @@
 
 **[Italiano](#italiano) · [English](#english)**
 
+**Source code / Codice sorgente:** [discola-web](https://github.com/diegoami/discola-web)
+
 Briscola for two players, written in Delphi 3 in 1997 by Diego Amicabile and
 ported to the web. Here you'll find the Android app and the rules — to play in
 the browser right now, go to **<https://discola.netlify.app>**.
